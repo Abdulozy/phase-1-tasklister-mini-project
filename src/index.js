@@ -1,4 +1,3 @@
-// OO solution
 document.addEventListener("DOMContentLoaded", () => {
   // initialize taskList class
   const taskList = new TaskList();
